@@ -216,7 +216,7 @@ export default function Dashboard() {
 
     const response =
       await fetch(
-        "http://127.0.0.1:8000/recommend",
+        "https://concrete-ai-project.onrender.com/recommend"
         {
 
           method: "POST",
