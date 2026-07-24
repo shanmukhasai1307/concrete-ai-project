@@ -17,16 +17,20 @@ https://concrete-ai-project.onrender.com/docs
 ## 📸 Screenshots
 
 ### Login Page
-(Add Screenshot)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/aa6f4127-464d-4cdf-b730-353bd72c7666" />
 
 ### Dashboard
-(Add Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b2e530b-dbb7-4a78-becc-a359fbca3357" />
+
 
 ### Analytics
-(Add Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c52fabf2-2fe6-40df-ab86-47a2093001bd" />
+
 
 ### Report
-(Add Screenshot)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b8fdb23-2afc-4626-975f-6f861ec90388" />
+
 
 ---
 
@@ -244,7 +248,7 @@ GitHub:
 https://github.com/shanmukhasai1307
 
 LinkedIn:
-(Add Your LinkedIn Profile)
+ linkedin/shanmukha-sai-kurakula 
 
 ---
 
